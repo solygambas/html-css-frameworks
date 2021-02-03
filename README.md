@@ -1,4 +1,4 @@
-# Ninja Food - Tailwind CSS
+# Food Ninja - Tailwind CSS
 
 A recipe website to understand Tailwind CSS basics.
 

@@ -8,7 +8,7 @@ A recipe website to understand Tailwind CSS basics.
 
 ## Features
 
-- setting up Tailwind CSS for development mode.
+- setting up Tailwind CSS for development.
 - handling fonts, colors, margin, padding and borders.
 - extending theme colors and customizing font with tailwind.config.js.
 - using flexbox, grid and responsive classes.

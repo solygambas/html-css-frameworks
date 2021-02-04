@@ -7,8 +7,16 @@
     "build": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "keywords": [],
-  "author": "",
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/html-css-tailwind-tutorial.git"
+  },
+  "author": "solygambas",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solygambas/html-css-tailwind-tutorial/issues"
+  },
+  "homepage": "https://github.com/solygambas/html-css-tailwind-tutorial#readme",
   "dependencies": {
     "autoprefixer": "^10.2.4",
     "tailwindcss": "^2.0.2"

@@ -53,6 +53,6 @@ A product page to understand Bulma basics.
 - playing with grid columns and responsive classes.
 - generating cards for related products.
 - using tabs and rendering a modal with JavaScript.
-- creating a form: text, checkbox and select fields.
+- creating a form with text, checkbox and select fields.
 
 Based on [Bulma CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) by Shaun Pelling - The Net Ninja (2020).

@@ -1,23 +1,12 @@
-# CSS Frameworks
-
-This repo is made of 1 project:
-
-1. [**Food Ninja**](#food): A recipe website to understand Tailwind CSS basics.
-<!-- 2. [**Star Wars Info**](#starwars): A web app about Star Wars to understand React Query basics. -->
-
-## <a name="food"></a>1) Food Ninja - Tailwind CSS
+# Food Ninja - Tailwind CSS
 
 A recipe website to understand Tailwind CSS basics.
 
-[See food-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/food-ninja)
-
 <p align="center">
-    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/food-ninja">
-        <img src="food-ninja/screenshot.png">
-    </a>
+    <img src="screenshot.png">
 </p>
 
-### Features
+## Features
 
 - setting up Tailwind CSS for development.
 - handling fonts, colors, margin, padding and borders.

@@ -15,7 +15,7 @@
       <div class="navbar-brand">
         <a class="navbar-item"
           ><img
-            src="assets/logo.png"
+            src="https://i.ibb.co/vkT9Xds/logo.png"
             alt="Ninja Coffee Logo"
             style="max-height: 70px"
             class="px-2 py-2"
@@ -60,7 +60,7 @@
           </div>
           <div class="column is-6-tablet is-5-desktop has-text-centered">
             <img
-              src="assets/product.png"
+              src="https://i.ibb.co/R6vG0fg/product.png"
               alt="docker coffee image"
               class="px-6"
             />
@@ -71,7 +71,21 @@
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid,
               repellendus?
             </p>
-            <button class="button is-primary">Add to Cart</button>
+            <form>
+              <div class="field">
+                <div class="control mb-6">
+                  <div class="select is-dark">
+                    <select>
+                      <option>Small (250g)</option>
+                      <option>Large (500g)</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <button class="button is-primary" onclick="return false;">
+                Add to Cart
+              </button>
+            </form>
           </div>
         </div>
       </div>
@@ -129,7 +143,13 @@
                   repellat illum!
                 </p>
                 <div class="has-text-centered">
-                  <button class="button mt-5">Sign Up</button>
+                  <button
+                    class="button mt-5"
+                    id="signup"
+                    onclick="return false;"
+                  >
+                    Sign Up
+                  </button>
                 </div>
               </div>
             </div>
@@ -137,6 +157,107 @@
         </div>
       </div>
     </section>
+    <!-- cards -->
+    <section class="section is-hidden-mobile">
+      <div class="container">
+        <h3 class="title has-text-centered is-size-4">Related Products</h3>
+        <div class="columns mt-5 is-8 is-variable is-centered">
+          <div class="column is-4-tablet is-3-desktop">
+            <div class="card">
+              <div class="card-image has-text-centered px-6">
+                <img src="https://i.ibb.co/CWXwHDK/p1.png" alt="product" />
+              </div>
+              <div class="card-content">
+                <p>€12.95</p>
+                <p class="title is-size-5">Cortado Cup</p>
+              </div>
+              <footer class="card-footer">
+                <p class="card-footer-item">
+                  <a class="has-text-grey">View</a>
+                </p>
+              </footer>
+            </div>
+          </div>
+          <div class="column is-4-tablet is-3-desktop">
+            <div class="card">
+              <div class="card-image has-text-centered px-6">
+                <img src="https://i.ibb.co/1Kf8sj2/p2.png" alt="product" />
+              </div>
+              <div class="card-content">
+                <p>€13.95</p>
+                <p class="title is-size-5">Docker Light</p>
+              </div>
+              <footer class="card-footer">
+                <p class="card-footer-item">
+                  <a class="has-text-grey">View</a>
+                </p>
+              </footer>
+            </div>
+          </div>
+          <div class="column is-4-tablet is-3-desktop">
+            <div class="card">
+              <div class="card-image has-text-centered px-6">
+                <img src="https://i.ibb.co/rd9RN3R/p3.png" alt="product" />
+              </div>
+              <div class="card-content">
+                <p>€11.95</p>
+                <p class="title is-size-5">Coffee Crush</p>
+              </div>
+              <footer class="card-footer">
+                <p class="card-footer-item">
+                  <a class="has-text-grey">View</a>
+                </p>
+              </footer>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- footer -->
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>
+          Copyright &copy;
+          <script>
+            document.write(new Date().getFullYear());
+          </script>
+          Coffee Ninja
+        </p>
+      </div>
+    </footer>
+    <!-- modal -->
+    <div class="modal">
+      <div class="modal-background"></div>
+      <div class="modal-content has-background-white py-5 px-5">
+        <h3 class="title mb-6">Join the Club</h3>
+        <form>
+          <div class="field">
+            <label class="label">Name</label>
+            <div class="control">
+              <input type="text" class="input" placeholder="Name" />
+            </div>
+          </div>
+          <div class="field">
+            <label class="label">Email</label>
+            <div class="control">
+              <input type="email" class="input" placeholder="Email" />
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <label class="checkbox">
+                <input type="checkbox" />
+                I agree to the <a>terms & conditions</a>
+              </label>
+            </div>
+          </div>
+          <div class="mt-6 has-text-centered">
+            <button class="button is-primary">Sign Up</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
     <script src="index.js"></script>
   </body>
 </html>

@@ -34,11 +34,13 @@ Based on [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGk
 
 A product page to understand Bulma basics.
 
+[See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw)
+
 [See ninja-coffee folder](https://github.com/solygambas/html-css-frameworks/tree/master/ninja-coffee)
 
 <p align="center">
     <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ninja-coffee">
-        <!-- <img src="ninja-coffee/screenshot.png"> -->
+        <img src="ninja-coffee/screenshot.png">
     </a>
 </p>
 

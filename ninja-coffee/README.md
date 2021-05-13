@@ -2,8 +2,10 @@
 
 A product page to understand Bulma basics.
 
+[See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw)
+
 <p align="center">
-    <!-- <img src="screenshot.png"> -->
+    <img src="screenshot.png">
 </p>
 
 ## Features

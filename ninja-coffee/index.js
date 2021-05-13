@@ -22,3 +22,16 @@ tabs.forEach((tab) => {
     });
   });
 });
+
+// modal
+const signupButton = document.querySelector("#signup");
+const modalBackground = document.querySelector(".modal-background");
+const modal = document.querySelector(".modal");
+
+signupButton.addEventListener("click", () => {
+  modal.classList.add("is-active");
+});
+
+modalBackground.addEventListener("click", () => {
+  modal.classList.remove("is-active");
+});

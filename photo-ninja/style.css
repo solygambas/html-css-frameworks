@@ -1,5 +1,7 @@
 header {
-  background: url(https://i.ibb.co/TbFxMgn/man-min.jpg) center / cover;
+  background: url(https://images.unsplash.com/photo-1542940171-c8e6ffb7fc99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80)
+    top / cover;
+  /* background: url(https://i.ibb.co/TbFxMgn/man-min.jpg) top / cover; */
   min-height: 100vh;
 }
 

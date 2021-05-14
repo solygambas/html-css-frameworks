@@ -1,0 +1,10 @@
+header {
+  background: url(https://i.ibb.co/TbFxMgn/man-min.jpg) center / cover;
+  min-height: 100vh;
+}
+
+@media screen and (max-width: 670px) {
+  header {
+    min-height: 50vh;
+  }
+}

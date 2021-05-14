@@ -1,9 +1,10 @@
 # CSS Frameworks
 
-This repo is made of 2 projects:
+This repo is made of 3 projects:
 
 1. [**Food Ninja**](#food): A recipe website to understand Tailwind CSS basics.
 2. [**Ninja Coffee**](#coffee): A product page to understand Bulma basics.
+3. [**Photo Ninja**](#photo): A photography portfolio website to learn Materialize basics.
 
 ## <a name="food"></a>1) Food Ninja - Tailwind CSS
 
@@ -56,3 +57,23 @@ A product page to understand Bulma basics.
 - creating a form with text, checkbox and select fields.
 
 Based on [Bulma CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) by Shaun Pelling - The Net Ninja (2020).
+
+## <a name="photo"></a>3) Photo Ninja - Materialize
+
+A photography portfolio website to learn Materialize basics.
+
+<!-- [See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw) -->
+
+[See photo-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja)
+
+<!-- <p align="center">
+    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja">
+        <img src="photo-ninja/screenshot.png">
+    </a>
+</p> -->
+
+### Features
+
+-
+
+Based on [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff) by Shaun Pelling - The Net Ninja (2018).

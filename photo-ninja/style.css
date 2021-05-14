@@ -3,6 +3,10 @@ header {
   min-height: 100vh;
 }
 
+.section {
+  padding: 4vw 0;
+}
+
 @media screen and (max-width: 670px) {
   header {
     min-height: 50vh;

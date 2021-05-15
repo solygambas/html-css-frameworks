@@ -64,15 +64,15 @@ Based on [Bulma CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9
 
 A photography portfolio website to learn Materialize basics.
 
-<!-- [See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw) -->
+[See Demo on CodePen](https://codepen.io/solygambas/full/poebvRy)
 
 [See photo-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja)
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja">
-        <img src="photo-ninja/screenshot.png">
+        <img src="photo-ninja/screenshot.jpg">
     </a>
-</p> -->
+</p>
 
 ### Features
 

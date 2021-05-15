@@ -2,10 +2,10 @@
 
 A photography portfolio website to learn Materialize basics.
 
-<!-- [See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw) -->
+[See Demo on CodePen](https://codepen.io/solygambas/full/poebvRy)
 
 <p align="center">
-    <!-- <img src="screenshot.png"> -->
+    <img src="screenshot.jpg">
 </p>
 
 ## Features

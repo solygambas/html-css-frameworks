@@ -9,6 +9,46 @@ header {
   padding: 4vw 0;
 }
 
+.tabs .indicator {
+  background-color: #b64a53;
+}
+
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+  background-color: transparent;
+}
+
+.input-field input:focus + label,
+.input-field textarea:focus + label {
+  color: #b64a53 !important;
+}
+
+.input-field input:focus,
+.input-field textarea:focus {
+  border-bottom: 1px solid #b64a53 !important;
+  box-shadow: 0 1px 0 0 #b64a53 !important;
+}
+
+.input-field .prefix.active,
+.datepicker-cancel,
+.datepicker-clear,
+.datepicker-today,
+.datepicker-done,
+.datepicker-table td.is-today,
+.dropdown-content li > span {
+  color: #b64a53;
+}
+
+.datepicker-date-display,
+.datepicker-table td.is-selected {
+  background-color: #b64a53;
+}
+
+.input-field input[type="checkbox"].filled-in:checked + span:not(.lever):after {
+  border: 2px solid #b64a53;
+  background-color: #b64a53;
+}
+
 @media screen and (max-width: 670px) {
   header {
     min-height: 50vh;

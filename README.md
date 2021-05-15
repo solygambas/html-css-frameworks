@@ -10,6 +10,8 @@ This repo is made of 3 projects:
 
 A recipe website to understand Tailwind CSS basics.
 
+[See Demo on CodePen](https://codepen.io/solygambas/full/bGqpPJJ)
+
 [See food-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/food-ninja)
 
 <p align="center">

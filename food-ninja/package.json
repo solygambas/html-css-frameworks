@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build src/styles.css -o public/styles.css"
+    "dev": "tailwindcss build src/styles.css -o public/styles.css",
+    "build": "NODE_ENV=production npx tailwindcss-cli@latest build src/styles.css -o public/styles.css"
   },
   "keywords": [],
- "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/solygambas/html-css-frameworks.git"
   },

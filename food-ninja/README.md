@@ -2,6 +2,8 @@
 
 A recipe website to understand Tailwind CSS basics.
 
+[See Demo on CodePen](https://codepen.io/solygambas/full/bGqpPJJ)
+
 <p align="center">
     <img src="screenshot.png">
 </p>

@@ -6,6 +6,8 @@ This repo is made of 3 projects:
 2. [**Ninja Coffee**](#coffee): A product page to understand Bulma basics.
 3. [**Photo Ninja**](#photo): A photography portfolio website to learn Materialize basics.
 
+[See all projects on CodePen](https://codepen.io/collection/ZMMZPM?grid_type=grid&sort_by=item_created_at)
+
 ## <a name="food"></a>1) Food Ninja - Tailwind CSS
 
 A recipe website to understand Tailwind CSS basics.

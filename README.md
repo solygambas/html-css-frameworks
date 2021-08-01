@@ -110,4 +110,4 @@ A responsive landing page with Bootstrap 5.
 
 -
 
-Based on [Bootstrap 5 Crash Course Tutorial](https://www.youtube.com/list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) by Shaun Pelling - The Net Ninja (2021).
+Based on [Bootstrap 5 Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) by Shaun Pelling - The Net Ninja (2021).

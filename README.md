@@ -1,10 +1,11 @@
 # CSS Frameworks
 
-This repo is made of 3 projects:
+This repo is made of 4 projects:
 
 1. [**Food Ninja**](#food): A recipe website to understand Tailwind CSS basics.
 2. [**Ninja Coffee**](#coffee): A product page to understand Bulma basics.
 3. [**Photo Ninja**](#photo): A photography portfolio website to learn Materialize basics.
+4. [**Ebook Landing Page**](#ebook): A responsive landing page with Bootstrap 5.
 
 [See all projects on CodePen](https://codepen.io/collection/ZMMZPM?grid_type=grid&sort_by=item_created_at)
 
@@ -90,3 +91,23 @@ A photography portfolio website to learn Materialize basics.
 - adding a footer and enabling smooth scroll with scrollspy.
 
 Based on [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff) by Shaun Pelling - The Net Ninja (2018).
+
+## <a name="ebook"></a>4) Ebook Landing Page - Bootstrap 5
+
+A responsive landing page with Bootstrap 5.
+
+<!-- [See Demo on CodePen]() -->
+
+[See ebook-landing-page folder](https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page)
+
+<!-- <p align="center">
+    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page">
+        <img src="ebook-landing-page/screenshot.jpg">
+    </a>
+</p> -->
+
+### Features
+
+-
+
+Based on [Bootstrap 5 Crash Course Tutorial](https://www.youtube.com/list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) by Shaun Pelling - The Net Ninja (2021).

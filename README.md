@@ -96,15 +96,15 @@ Based on [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkc
 
 A responsive landing page with Bootstrap 5.
 
-<!-- [See Demo on CodePen]() -->
+[See Demo on CodePen](https://codepen.io/solygambas/full/oNWymQV)
 
 [See ebook-landing-page folder](https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page)
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page">
         <img src="ebook-landing-page/screenshot.jpg">
     </a>
-</p> -->
+</p>
 
 ### Features
 

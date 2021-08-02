@@ -1,0 +1,22 @@
+{
+  "name": "ebook-landing-page",
+  "version": "1.0.0",
+  "description": "A responsive landing page with Bootstrap 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/html-css-frameworks.git"
+  },
+  "author": "solygambas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solygambas/html-css-frameworks/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}

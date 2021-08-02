@@ -8,12 +8,13 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
     />
-    <link
+    <!-- <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
-    />
+    /> -->
+    <link rel="stylesheet" href="./sass/main.min.css" />
     <style>
       section {
         padding: 60px 0;
@@ -376,10 +377,10 @@
     </section>
 
     <!-- reviews list -->
-    <section id="reviews" class="bg-light">
+    <section id="reviews" class="bg-altlight">
       <div class="container-lg">
         <div class="text-center">
-          <h2><i class="bi bi-stars"></i> Book Reviews</h2>
+          <h2><i class="bi bi-stars text-altdark"></i> Book Reviews</h2>
           <p class="lead">What my students have said about the book...</p>
         </div>
         <div class="row justify-content-center my-5">
@@ -387,11 +388,11 @@
             <div class="list-group">
               <div class="list-group-item py-3">
                 <div class="pb-2">
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
                 </div>
                 <h5 class="mb-1">A must-buy for every aspiring web dev</h5>
                 <p class="mb-1">
@@ -404,11 +405,11 @@
               </div>
               <div class="list-group-item py-3">
                 <div class="pb-2">
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-half"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-half text-altdark"></i>
                 </div>
                 <h5 class="mb-1">A must-buy for every aspiring web dev</h5>
                 <p class="mb-1">
@@ -421,11 +422,11 @@
               </div>
               <div class="list-group-item py-3">
                 <div class="pb-2">
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
                 </div>
                 <h5 class="mb-1">A must-buy for every aspiring web dev</h5>
                 <p class="mb-1">
@@ -438,11 +439,11 @@
               </div>
               <div class="list-group-item py-3">
                 <div class="pb-2">
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
                 </div>
                 <h5 class="mb-1">A must-buy for every aspiring web dev</h5>
                 <p class="mb-1">
@@ -455,11 +456,11 @@
               </div>
               <div class="list-group-item py-3">
                 <div class="pb-2">
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star-fill"></i>
-                  <i class="bi bi-star"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star-fill text-altdark"></i>
+                  <i class="bi bi-star text-altdark"></i>
                 </div>
                 <h5 class="mb-1">A must-buy for every aspiring web dev</h5>
                 <p class="mb-1">
@@ -586,6 +587,128 @@
             >
               Register for Updates
             </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- faq -->
+    <section>
+      <div class="container">
+        <div class="text-center">
+          <h2>Frequently Asked Questions</h2>
+          <p class="lead">
+            Get information on frequent questions or concerns...
+          </p>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-md-8 text-start">
+            <nav>
+              <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button
+                  class="nav-link active"
+                  id="nav-refund-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#nav-refund"
+                  type="button"
+                  role="tab"
+                  aria-controls="nav-refund"
+                  aria-selected="true"
+                >
+                  Refund Policy
+                </button>
+
+                <button
+                  class="nav-link"
+                  id="nav-update-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#nav-update"
+                  type="button"
+                  role="tab"
+                  aria-controls="nav-update"
+                  aria-selected="false"
+                >
+                  Upcoming Updates
+                </button>
+
+                <button
+                  class="nav-link"
+                  id="nav-extras-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#nav-extras"
+                  type="button"
+                  role="tab"
+                  aria-controls="nav-extras"
+                  aria-selected="false"
+                >
+                  Included Extras
+                </button>
+              </div>
+            </nav>
+            <div class="tab-content" id="nav-tabContent">
+              <div
+                class="tab-pane fade show active p-3"
+                id="nav-refund"
+                role="tabpanel"
+                aria-labelledby="nav-refund-tab"
+              >
+                <h2>Refund Policy</h2>
+                <p>
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Distinctio provident corporis aut, ipsa tenetur vel illo
+                  excepturi voluptate molestiae magnam, totam est id alias dicta
+                  a assumenda corrupti et repellat.
+                </p>
+                <p>
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Distinctio provident corporis aut, ipsa tenetur vel illo
+                  excepturi voluptate molestiae magnam, totam est id alias dicta
+                  a assumenda corrupti et repellat.
+                </p>
+              </div>
+
+              <div
+                class="tab-pane fade p-3"
+                id="nav-update"
+                role="tabpanel"
+                aria-labelledby="nav-update-tab"
+              >
+                <h2>Upcoming Updates</h2>
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Quasi, cupiditate nam aperiam possimus, ratione modi enim
+                  inventore reiciendis ipsum mollitia, adipisci accusamus!
+                  Dolorem omnis illo incidunt ex, sit minus numquam.
+                </p>
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Quasi, cupiditate nam aperiam possimus, ratione modi enim
+                  inventore reiciendis ipsum mollitia, adipisci accusamus!
+                  Dolorem omnis illo incidunt ex, sit minus numquam.
+                </p>
+              </div>
+
+              <div
+                class="tab-pane fade p-3"
+                id="nav-extras"
+                role="tabpanel"
+                aria-labelledby="nav-extras-tab"
+              >
+                <h2>Included Extras</h2>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Facere voluptates nostrum vel officiis! Magni animi assumenda
+                  numquam exercitationem facilis! Excepturi, doloremque illo.
+                  Voluptate, natus molestias? Enim repellendus earum ad sunt!
+                </p>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Facere voluptates nostrum vel officiis! Magni animi assumenda
+                  numquam exercitationem facilis! Excepturi, doloremque illo.
+                  Voluptate, natus molestias? Enim repellendus earum ad sunt!
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>

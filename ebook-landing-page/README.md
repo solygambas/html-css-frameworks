@@ -2,11 +2,11 @@
 
 A responsive landing page with Bootstrap 5.
 
-<!-- [See Demo on CodePen](#)
+[See Demo on CodePen](https://codepen.io/solygambas/full/oNWymQV)
 
 <p align="center">
     <img src="screenshot.png">
-</p>-->
+</p>
 
 ## Features
 

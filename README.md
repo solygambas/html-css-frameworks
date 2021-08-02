@@ -102,7 +102,7 @@ A responsive landing page with Bootstrap 5.
 
 <p align="center">
     <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page">
-        <img src="ebook-landing-page/screenshot.jpg">
+        <img src="ebook-landing-page/screenshot.png">
     </a>
 </p>
 

@@ -1,8 +1,19 @@
-<!-- to get Tailwind CSS, run:
+<!-- GET TAILWIND CSS
 npx tailwindcss -o ./playground/tailwind-jit/build/styles.css -->
-<!-- to include your own styles: 
+
+<!-- INCLUDE YOUR OWN STYLES 
 npx tailwindcss -i ./playground/tailwind-jit/src/styles.css -o ./playground/tailwind-jit/build/styles.css -->
 <!-- -i for input location, -o for output location -->
+
+<!-- RUN JUST-IN-TIME MODE
+add --JIT, --purge and --watch flags:
+npx tailwindcss -i ./playground/tailwind-jit/src/styles.css -o ./playground/tailwind-jit/build/styles.css --JIT --purge="./playground/tailwind-jit/*.html" --watch -->
+
+<!-- GENERATE A CONFIG FILE
+cd playground/tailwind-jit/
+npx tailwindcss init 
+npx tailwindcss -i ./src/styles.css -o ./build/styles.css --watch
+-->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,9 +29,9 @@ npx tailwindcss -i ./playground/tailwind-jit/src/styles.css -o ./playground/tail
       <h1 class="text-4xl text-blue-600 font-bold">Tailwind JIT Tutorial</h1>
       <h2 class="text-2xl text-gray-500 font-semibold">(Just in Time)</h2>
     </div>
-    <div>
-      <button>Click me</button>
-      <button>Click me</button>
+    <div class="p-8 text-center">
+      <button class="bg-blue-600 text-white p-2 rounded">Click me</button>
+      <button class="bg-green-500 text-white p-2 rounded">Click me</button>
     </div>
     <div>
       <h3>Todos:</h3>

@@ -595,6 +595,23 @@ video {
   display: none;
 }
 
+.m-4 {
+  margin: 1rem;
+}
+
+.m-5 {
+  margin: 1.25rem;
+}
+
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.list-disc {
+  list-style-type: disc;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -657,4 +674,77 @@ video {
 .testing {
   background-color: #f2f2f2;
   border: 2px solid #777;
+}
+
+.first-letter\:font-bold::first-letter {
+  font-weight: 700;
+}
+
+.first-letter\:text-green-500::first-letter {
+  --tw-text-opacity: 1;
+  color: rgba(16, 185, 129, var(--tw-text-opacity));
+}
+
+.first-line\:font-semibold::first-line {
+  font-weight: 600;
+}
+
+.marker\:text-blue-600 *::marker {
+  --tw-text-opacity: 1;
+  color: rgba(37, 99, 235, var(--tw-text-opacity));
+}
+
+.marker\:text-green-500 *::marker {
+  --tw-text-opacity: 1;
+  color: rgba(16, 185, 129, var(--tw-text-opacity));
+}
+
+.marker\:text-blue-600::marker {
+  --tw-text-opacity: 1;
+  color: rgba(37, 99, 235, var(--tw-text-opacity));
+}
+
+.marker\:text-green-500::marker {
+  --tw-text-opacity: 1;
+  color: rgba(16, 185, 129, var(--tw-text-opacity));
+}
+
+.selection\:bg-pink-500 *::-moz-selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+}
+
+.selection\:bg-pink-500 *::selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+}
+
+.selection\:bg-purple-500 *::-moz-selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(139, 92, 246, var(--tw-bg-opacity));
+}
+
+.selection\:bg-purple-500 *::selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(139, 92, 246, var(--tw-bg-opacity));
+}
+
+.selection\:bg-pink-500::-moz-selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+}
+
+.selection\:bg-pink-500::selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+}
+
+.selection\:bg-purple-500::-moz-selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(139, 92, 246, var(--tw-bg-opacity));
+}
+
+.selection\:bg-purple-500::selection {
+  --tw-bg-opacity: 1;
+  background-color: rgba(139, 92, 246, var(--tw-bg-opacity));
 }

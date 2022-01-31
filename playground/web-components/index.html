@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Components Example</title>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+      }
+      /* h3 {
+        color: purple;
+      } */
+    </style>
+  </head>
+  <body>
+    <!-- <h3>Hello World</h3> -->
+    <user-card
+      name="John Doe"
+      avatar="https://randomuser.me/api/portraits/men/1.jpg"
+    >
+      <div slot="email">johndoe@gmail.com</div>
+      <div slot="phone">555-555-5555</div>
+    </user-card>
+    <user-card
+      name="Jane Doe"
+      avatar="https://randomuser.me/api/portraits/women/1.jpg"
+    >
+      <div slot="email">janedoe@gmail.com</div>
+      <div slot="phone">333-333-3333</div>
+    </user-card>
+    <script src="userCard.js"></script>
+  </body>
+</html>

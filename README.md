@@ -1,13 +1,15 @@
 # CSS Frameworks
 
-This repo is made of 4 projects:
-
-1. [**Food Ninja**](#food): A recipe website to understand Tailwind CSS basics.
-2. [**Ninja Coffee**](#coffee): A product page to understand Bulma basics.
-3. [**Photo Ninja**](#photo): A photography portfolio website to learn Materialize basics.
-4. [**Ebook Landing Page**](#ebook): A responsive landing page with Bootstrap 5.
+4 small projects using Tailwind CSS, Bulma, Materialize and Bootstrap 5.
 
 [See all projects on CodePen](https://codepen.io/collection/ZMMZPM?grid_type=grid&sort_by=item_created_at)
+
+|  #  | Project                                                                                                                                  | Description                                                | Live Demo                                                |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 01 | [**Food Ninja**](#food) | A recipe website to understand Tailwind CSS basics.                                | [Live Demo](https://codepen.io/solygambas/full/bGqpPJJ)  |
+| 02 | [**Ninja Coffee**](#coffee) | A product page to understand Bulma basics.                                 | [Live Demo](https://codepen.io/solygambas/full/KKWzKxw)  |
+| 03 | [**Photo Ninja**](#photo) | A photography portfolio website to learn Materialize basics.             | [Live Demo](https://codepen.io/solygambas/full/poebvRy)  |
+| 04 | [**Ebook Landing Page**](#ebook) | A responsive landing page with Bootstrap 5.                   | [Live Demo](https://codepen.io/solygambas/full/oNWymQV)  |
 
 ## <a name="food"></a>1) Food Ninja - Tailwind CSS
 

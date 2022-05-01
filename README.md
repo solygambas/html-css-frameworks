@@ -4,12 +4,12 @@
 
 [See all projects on CodePen](https://codepen.io/collection/ZMMZPM?grid_type=grid&sort_by=item_created_at)
 
-|  #  | Project                                                                                                                                  | Description                                                | Live Demo                                                |
-| :-: | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------- |
-| 01 | [**Food Ninja**](#food) | A recipe website to understand Tailwind CSS basics.                                | [Live Demo](https://codepen.io/solygambas/full/bGqpPJJ)  |
-| 02 | [**Ninja Coffee**](#coffee) | A product page to understand Bulma basics.                                 | [Live Demo](https://codepen.io/solygambas/full/KKWzKxw)  |
-| 03 | [**Photo Ninja**](#photo) | A photography portfolio website to learn Materialize basics.             | [Live Demo](https://codepen.io/solygambas/full/poebvRy)  |
-| 04 | [**Ebook Landing Page**](#ebook) | A responsive landing page with Bootstrap 5.                   | [Live Demo](https://codepen.io/solygambas/full/oNWymQV)  |
+|  #  | Project                          | Description                                                  | Live Demo                                               |
+| :-: | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 01  | [**Food Ninja**](#food)          | A recipe website to understand Tailwind CSS basics.          | [Live Demo](https://codepen.io/solygambas/full/bGqpPJJ) |
+| 02  | [**Ninja Coffee**](#coffee)      | A product page to understand Bulma basics.                   | [Live Demo](https://codepen.io/solygambas/full/KKWzKxw) |
+| 03  | [**Photo Ninja**](#photo)        | A photography portfolio website to learn Materialize basics. | [Live Demo](https://codepen.io/solygambas/full/poebvRy) |
+| 04  | [**Ebook Landing Page**](#ebook) | A responsive landing page with Bootstrap 5.                  | [Live Demo](https://codepen.io/solygambas/full/oNWymQV) |
 
 ## <a name="food"></a>1) Food Ninja - Tailwind CSS
 
@@ -17,10 +17,10 @@ A recipe website to understand Tailwind CSS basics.
 
 [See Demo on CodePen](https://codepen.io/solygambas/full/bGqpPJJ)
 
-[See food-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/food-ninja)
+[See food-ninja folder](food-ninja)
 
 <p align="center">
-    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/food-ninja">
+    <a href="food-ninja">
         <img src="food-ninja/screenshot.png">
     </a>
 </p>
@@ -44,10 +44,10 @@ A product page to understand Bulma basics.
 
 [See Demo on CodePen](https://codepen.io/solygambas/full/KKWzKxw)
 
-[See ninja-coffee folder](https://github.com/solygambas/html-css-frameworks/tree/master/ninja-coffee)
+[See ninja-coffee folder](ninja-coffee)
 
 <p align="center">
-    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ninja-coffee">
+    <a href="ninja-coffee">
         <img src="ninja-coffee/screenshot.png">
     </a>
 </p>
@@ -71,10 +71,10 @@ A photography portfolio website to learn Materialize basics.
 
 [See Demo on CodePen](https://codepen.io/solygambas/full/poebvRy)
 
-[See photo-ninja folder](https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja)
+[See photo-ninja folder](photo-ninja)
 
 <p align="center">
-    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/photo-ninja">
+    <a href="photo-ninja">
         <img src="photo-ninja/screenshot.jpg">
     </a>
 </p>
@@ -100,10 +100,10 @@ A responsive landing page with Bootstrap 5.
 
 [See Demo on CodePen](https://codepen.io/solygambas/full/oNWymQV)
 
-[See ebook-landing-page folder](https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page)
+[See ebook-landing-page folder](ebook-landing-page)
 
 <p align="center">
-    <a href="https://github.com/solygambas/html-css-frameworks/tree/master/ebook-landing-page">
+    <a href="ebook-landing-page">
         <img src="ebook-landing-page/screenshot.png">
     </a>
 </p>

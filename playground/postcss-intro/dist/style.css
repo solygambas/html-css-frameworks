@@ -1,0 +1,11 @@
+body {
+  background-color: #fff;
+}
+
+input::-moz-placeholder {
+  color: steelblue;
+}
+
+input::placeholder {
+  color: steelblue;
+}

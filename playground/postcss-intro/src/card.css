@@ -1,0 +1,14 @@
+.card {
+  padding: 20px;
+  margin-top: 20px;
+  border: $borderWidth solid $borderColor;
+  width: 500px;
+  max-width: 90%;
+  background-image: resolve("postcss.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  h3 {
+    color: steelblue;
+  }
+}
